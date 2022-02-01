@@ -41,6 +41,14 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "Albert K",
+      "ativo": true,
+      "email": "a@a.com",
+      "role": 2,
+      "createdAt": "2022-01-31T00:00:00.000Z",
+      "id": 7
     }
   ],
   "roles": [
